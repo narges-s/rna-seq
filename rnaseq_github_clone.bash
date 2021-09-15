@@ -3,7 +3,7 @@
 ## some source data and iPython notebooks 
 ## into a Jupyter image for Python and Machine Learning course
 
-cd /data
+cd /home/rstudio
 # git reflog requires a name and email if user is not in passwd
 # even if you're only cloning
 export GIT_COMMITTER_NAME=narges-s
